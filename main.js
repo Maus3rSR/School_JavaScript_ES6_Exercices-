@@ -355,4 +355,5 @@ function program() {
     );
 }
 
+console.log("Exercice 8");
 program();
